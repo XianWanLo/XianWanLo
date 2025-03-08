@@ -15,12 +15,10 @@ This is **Kaylex**, an **IT girl** driven by passion for **creative solutions** 
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
+**Frontend & Backend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff)
-
-**Backend:**  
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 
@@ -37,9 +35,7 @@ This is **Kaylex**, an **IT girl** driven by passion for **creative solutions** 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=fff)
 
 **Other Tools:**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff)
 
 ---
