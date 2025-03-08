@@ -46,7 +46,7 @@ This is **Kaylex**, an **IT girl** driven by passion for **creative solutions** 
 
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kaylex-lo-62339623b/)
+- 📫 LinkedIn: ** [Kaylex Lo](https://www.linkedin.com/in/kaylex-lo-62339623b/) 
 
 ---
 
