@@ -7,7 +7,7 @@ This is **Kaylex**, an **IT girl** driven by passion for **creative solutions** 
 ## 🚀 Fun Fact About Me
 - 🌱 Constantly learning new technologies to stay ahead in the industry.
 - 👩‍🏫 **Programming Tutor** who loves sharing knowledge and helping others grow.
-- 👩‍🏫 **Education Officer** in Women in Technology Club who organised workshops with huge tech companies for uni students.
+- 👩‍🏫 **Education Officer** organising workshops with huge tech companies for uni students.
 - 🎙️ Co-host of a **podcast** channel on self-growth and positive mindset.
 
 ---
