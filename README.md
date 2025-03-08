@@ -1,4 +1,4 @@
-# 👋 Welcome
+## 👋 Welcome
 
 I'm an **IT girl** driven by passion for **creative solutions** in both **data modeling** & **web app development**! I have active experiences in **AI modeling** 💡 (PyTorch, TensorFlow), **full-stack development** 💻 (React, TypeScript, Next.js, PostgreSQL, Supabase), and **data analysis** 🔍 (MySQL, Tableau, R).
 
