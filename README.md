@@ -4,12 +4,11 @@ This is **Kaylex**, an **IT girl** driven by passion for **creative solutions** 
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently exploring ways to integrate AI with web applications.
+## 🚀 Fun Fact About Me
 - 🌱 Constantly learning new technologies to stay ahead in the industry.
-- 👩‍🏫 As a **part-time programming tutor**, I love sharing knowledge and helping others grow.
-- 🎙️ I also host a **podcast** discussing tech trends and AI developments.
-- 🏕️ As a **scout coach**, I enjoy volunteering and collaborating to make a positive impact.
+- 👩‍🏫 **Programming Tutor** who loves sharing knowledge and helping others grow.
+- 👩‍🏫 **Education Officer** in Women in Technology Club who organised workshops with huge tech companies for uni students.
+- 🎙️ Co-host of a **podcast** channel on self-growth and positive mindset.
 
 ---
 
