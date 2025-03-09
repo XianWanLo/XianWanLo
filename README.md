@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-This is **Kaylex**, an **IT girl** driven by passion for **creative solutions** in both **data modeling** & **web app development**! Born in **Malaysia**, widened my vision through **ML research work at SJTU** in China, and fast forward to exploring possibilities of **cross data science & web app development** during my **Master's study in Melbourne**, I am ready to tackle complex problems with diverse teams in the IT field!
+I am **Kaylex**, an **IT girl** driven by passion for **creative solutions** in both **data modeling** & **web app development**! Born in **Malaysia**, widened my vision through **ML research work at SJTU** in China, and currently exploring possibilities of **cross data science & web app development** during my **Master's study in Melbourne**!
 
 ---
 
